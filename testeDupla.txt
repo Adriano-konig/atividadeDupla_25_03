@@ -1,1 +1,10 @@
 Atividade hoje em dupla dia 25/03/2022
+ 
+Treinando o Pull Request e Merge no projeto de outro.
+git init na pasta nova
+git pull urlDoColega
+[fazer modificações]
+git add .
+git commit -m "comentário"
+git branch -M primeiraBranch
+git push -u origin
